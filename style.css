@@ -8,14 +8,20 @@ p
 background-color: rgba(255, 100, 95, 0.712);
 padding: 20px 10px 20px 10px;
 color: rgba(246, 255, 251, 0.61);
+<<<<<<< HEAD
 border-radius: 15px;
+=======
+>>>>>>> 28daec87be04db5dd7b6fbbcdec8c2d886b168e0
 }
 button
 {
     padding:5px 10px;
     font-size:10px;
+<<<<<<< HEAD
   margin-left: 20px;
     border-radius: 5px;
+=======
+>>>>>>> 28daec87be04db5dd7b6fbbcdec8c2d886b168e0
 }
 a
 {
@@ -27,13 +33,18 @@ li{
     color: rgba(169, 255, 251, 0.781);
 }
 h1{
+<<<<<<< HEAD
     text-align: center;
     text-decoration: underline;
     color: rgba(223, 66, 27, 0.925);
+=======
+    color: rgb(223, 66, 27);
+>>>>>>> 28daec87be04db5dd7b6fbbcdec8c2d886b168e0
 }
 h2{
     color: rgba(212, 238, 255, 0.884);
 }
+<<<<<<< HEAD
 form
 {
     color: rgb(137, 179, 179);
@@ -42,4 +53,8 @@ img
 {
     margin-left:33%;
     
+=======
+form{
+    color: rgb(137, 179, 179);
+>>>>>>> 28daec87be04db5dd7b6fbbcdec8c2d886b168e0
 }
